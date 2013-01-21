@@ -1,4 +1,4 @@
-# MultiMapWrapper, a muti-map for Haskell
+# MultiMapWrapper, a multi-map for Haskell
 
 A module MutiMapWrapper is a thin wapper 
 in order to use a Data.Map as a multi-map.
